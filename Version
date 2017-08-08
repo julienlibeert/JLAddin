@@ -1,1 +1,58 @@
 2.3a
+Version History	
+	
+2.3a	07/07/2017
+	Added several new features including: publish as pdf, unit converter, pivot table settings, expanded chart navigator, track changes functionality
+	
+1.8a - not distributed	
+	Added X-traveler tool permitting easy navigation within a chart
+	
+1.7a	
+	Scatterplots can now make custom gradients
+	
+1.6a	
+	Updated PI dataretriever
+	
+1.5b	
+	Removed progressbar in error replacement userform because incompatible with Windows updates
+	
+1.5a	
+	Added Sheet switcher functionality to function renamer add-in
+	Added cell indicator functionality (toggle on and off to highlight a given cell row and column for easy lookup)
+	
+1.4a	16/01/2013
+	Solved issue with recurring errors upon updating Excel
+	Added transfer formulas functionality
+	Fixed sheet renamer bugs
+	Added shortcuts to various add-ins
+	Various bug fixes
+	
+1.3a	
+	Added Sheet renamer functionality
+	Bug fixes
+	
+1.2c	
+	Improved functionality of formula modifier (including relative cell references)
+	Bug fixes for scatter plot maker (series grouping and incomplete charts)
+	
+1.2b	22/02/2012
+	Adding PI expressions to PI data collector
+	Bug fixed in PI data collector when using decimals in time formats
+	Solving bugs from chart debugger function in Chart options module
+	
+1.2a	17/01/2012
+	Bug fixes sheet folders
+	
+1.1e	17/01/2012
+	Added sheet folder functionality, which allows to group several sheets in large workbooks to save space
+	Bug fixes 'Get PI data' (additional types to retrieve sample data in stead of calculated data)
+	
+1.1d	09/01/2012
+	Version history display fixed on first start-up
+	
+1.1c	01/05/2012
+	Version history added
+	Get PI data from selected tags added:
+	- preferably start by pasting the PI titles function in the cell A1
+	- Select cells containing PI tags (cells must be in 1 row)
+	- use 'Get PI data' function to retrieve the data from PI one cell below the selected cells
